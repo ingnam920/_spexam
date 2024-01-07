@@ -1,4 +1,5 @@
 package com.example.demo;
+//이패키지 이하의 빈만 찾는다..!
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
